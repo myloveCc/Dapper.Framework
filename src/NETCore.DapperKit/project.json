@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0-1",
+  "dependencies": {
+    "Microsoft.Extensions.Configuration.Binder": "1.0.0",
+    "Microsoft.Extensions.Configuration.Json": "1.0.0",
+    "Dapper": "1.50.2",
+    "Dapper.Contrib": "1.50.0",
+    "NETStandard.Library": "1.6.0",
+    "System.Reflection.Extensions": "4.0.1",
+    "NETCore.SQLKit": "1.0.0-*",
+    "SapientGuardian.MySql.Data": "6.9.812"
+  },
+  "frameworks": {
+    "netstandard1.6": {
+      "imports": "dnxcore50"
+    }
+  },
+  "buildOptions": {
+    "xmlDoc": false
+  }
+}

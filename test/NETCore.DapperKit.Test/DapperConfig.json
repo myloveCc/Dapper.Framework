@@ -1,0 +1,7 @@
+﻿{
+  "DataBaseType": 0,
+  //数据库连接地址
+  "ConnectionString": "Data Source=.;User ID=sa;Password='123456';Initial Catalog=DapperDb;MultipleActiveResultSets=True;",
+  //命令超时时间
+  "CommandTimeOut": 0
+}

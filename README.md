@@ -1,0 +1,5 @@
+# Dapper.Framework
+
+## License
+
+[MIT]
